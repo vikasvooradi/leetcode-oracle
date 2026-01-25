@@ -14,13 +14,11 @@ This repository contains my solutions and notes as I progress from **basic → i
 | Phase 3 | Advanced / Complex SQL | Advanced |
 | Phase 4 | Hard / Recursive SQL | Expert |
 
----
-
 ## 🔗 LeetCode Problem List
 
 [Click here to see the curated LeetCode SQL list](https://leetcode.com/problem-list/wp6rdcqv/)
 
----
+# SQL Questions Roadmap (1–104)
 
 ## 🟢 Phase 1 — Basics (Easy, Core SQL)
 
@@ -80,8 +78,6 @@ This repository contains my solutions and notes as I progress from **basic → i
 ✅ 3570. Find Books with No Available Copies  
 ✅ 3793. Find Users with High Token Usage  
 
----
-
 ## 🟡 Phase 2 — Intermediate (Medium, Aggregations & Window Functions)
 
 ✅ 176. Second Highest Salary  
@@ -123,8 +119,6 @@ This repository contains my solutions and notes as I progress from **basic → i
 ✅ 3705. Find Golden Hour Customers  
 ✅ 3716. Find Churn Risk Customers  
 ✅ 3808. Find Emotionally Consistent Users  
-
----
 
 ## 🔴 Phase 3 — Advanced / Hard (Advanced, Recursive & Complex Queries)
 
