@@ -142,15 +142,12 @@ This repository contains my solutions and notes as I progress from **basic → i
 
 ---
 
-## 🔗 LeetCode Problem List
+### 🔗 LeetCode Problem List : [LeetCode SQL list](https://leetcode.com/problem-list/wp6rdcqv/)
 
-[Click here to see the curated LeetCode SQL list](https://leetcode.com/problem-list/wp6rdcqv/)
-
----
-
-> 🚀 I highly encourage you to try solving problems on **[LeetCode](https://leetcode.com)**!
-> This is purely for **learning and practice** purposes.
+> I highly encourage you to try solving problems on **[LeetCode](https://leetcode.com)**!  
+> This is purely for **learning and practice** purposes.  
 > All credit for the problems goes to **LeetCode**.
+
 
 
 
