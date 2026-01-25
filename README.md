@@ -3,6 +3,7 @@
 I am a **learner** actively practicing Oracle SQL problems.  
 This repository contains my solutions and notes as I progress from **basic → intermediate → advanced → hard SQL problems**.
 
+<br>
 
 ## 🚀 Roadmap Overview
 
