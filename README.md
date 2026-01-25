@@ -18,9 +18,9 @@ This repository contains my solutions and notes as I progress from **basic → i
 
 ## 🟢 Phase 1 — Basics (Easy, Core SQL)
 
-- [x] 175. Combine Two Tables  
-- [x] 181. Employees Earning More Than Their Managers  
-- [x] 182. Duplicate Emails  
+- [X] 175. Combine Two Tables  
+- [X] 181. Employees Earning More Than Their Managers  
+- [X] 182. Duplicate Emails  
 - [ ] 183. Customers Who Never Order  
 - [ ] 196. Delete Duplicate Emails  
 - [ ] 197. Rising Temperature  
