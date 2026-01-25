@@ -1,7 +1,7 @@
 # 🧠 Oracle SQL Learning Roadmap
 
-I am a **learner** actively practicing Oracle SQL problems.  
-This repository contains my solutions and notes as I progress from **basic → intermediate → advanced → hard SQL problems**.
+I am actively learning **Oracle SQL** by solving problems and taking notes.  
+This repository contains my solutions as I progress from **basic → intermediate → advanced → hard** problems.
 
 <br>
 
