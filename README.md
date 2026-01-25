@@ -3,7 +3,6 @@
 I am a **learner** actively practicing Oracle SQL problems.  
 This repository contains my solutions and notes as I progress from **basic → intermediate → advanced → hard SQL problems**.
 
----
 
 ## 🚀 Roadmap Overview
 
@@ -14,9 +13,8 @@ This repository contains my solutions and notes as I progress from **basic → i
 | Phase 3 | Advanced / Complex SQL | Advanced |
 | Phase 4 | Hard / Recursive SQL | Expert |
 
-## 🔗 LeetCode Problem List
 
-[Click here to see the curated LeetCode SQL list](https://leetcode.com/problem-list/wp6rdcqv/)
+<br>
 
 # SQL Questions Roadmap (1–104)
 
@@ -144,4 +142,9 @@ This repository contains my solutions and notes as I progress from **basic → i
 
 ---
 
+## 🔗 LeetCode Problem List
+
+[Click here to see the curated LeetCode SQL list](https://leetcode.com/problem-list/wp6rdcqv/)
+
+---
 
