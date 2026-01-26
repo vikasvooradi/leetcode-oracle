@@ -29,7 +29,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)<br>
 ✅ [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)<br>
 ✅ [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)<br> 
-✅ [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)<br>  
+✅ [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)<br>
 ✅ 586. Customer Placing the Largest Number of Orders  
 ✅ 595. Big Countries  
 ✅ 596. Classes With at Least 5 Students  
