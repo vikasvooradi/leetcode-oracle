@@ -31,7 +31,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)<br> 
 ✅ [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/description/)<br>
 ✅ [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/)<br>
-✅ 595. Big Countries  
+✅ [595. Big Countries](https://leetcode.com/problems/big-countries/description/)<br>
 ✅ 596. Classes With at Least 5 Students  
 ✅ 607. Sales Person  
 ✅ 610. Triangle Judgement  
