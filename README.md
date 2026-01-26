@@ -26,7 +26,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)<br>
 ✅ [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)  
 ✅ [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)  
-✅ 197. Rising Temperature  
+✅ [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)  
 ✅ 511. Game Play Analysis I  
 ✅ 577. Employee Bonus  
 ✅ 584. Find Customer Referee  
