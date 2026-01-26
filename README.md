@@ -25,7 +25,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) <br>
 ✅ [182. Duplicate Emails](https://leetcode.com/problems/duplicate-emails/description/)<br>
 ✅ [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/description/)  
-✅ 196. Delete Duplicate Emails  
+✅ [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)  
 ✅ 197. Rising Temperature  
 ✅ 511. Game Play Analysis I  
 ✅ 577. Employee Bonus  
