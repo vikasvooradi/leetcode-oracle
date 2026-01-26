@@ -28,7 +28,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/description/)<br>
 ✅ [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/description/)<br>
 ✅ [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/description/)<br>
-✅ 577. Employee Bonus  
+✅ [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/description/)<br> 
 ✅ 584. Find Customer Referee  
 ✅ 586. Customer Placing the Largest Number of Orders  
 ✅ 595. Big Countries  
