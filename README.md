@@ -22,7 +22,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ## 🟢 Phase 1 — Basics (Easy, Core SQL)
 
 ✅ [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/description/)  <br>
-✅ 181. Employees Earning More Than Their Managers <br>
+✅ [181. Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) <br>
 ✅ 182. Duplicate Emails  
 ✅ 183. Customers Who Never Order  
 ✅ 196. Delete Duplicate Emails  
