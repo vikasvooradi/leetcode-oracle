@@ -139,7 +139,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 - Start with **Phase 1 basics**  
 - Progress to **Phase 2 aggregation & window functions**  
 - Finish with **Phase 3 advanced / hard queries**  
-- Repository contains Oracle SQL solutions and notes  
+- Repository contains Oracle SQL solutions 
 
 ---
 
