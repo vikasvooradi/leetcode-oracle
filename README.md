@@ -37,7 +37,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement/)<br>
 ✅ [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)<br>
 ✅ [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)<br>
-✅ 627. Swap Sex of Employees  
+✅ [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/description/)<br>
 ✅ 1050. Actors and Directors Who Cooperated At Least Three Times  
 ✅ 1068. Product Sales Analysis I  
 ✅ 1075. Project Employees I  
