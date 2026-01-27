@@ -33,7 +33,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [586. Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/description/)<br>
 ✅ [595. Big Countries](https://leetcode.com/problems/big-countries/description/)<br>
 ✅ [596. Classes With at Least 5 Students](https://leetcode.com/problems/classes-with-at-least-5-students/description/)<br>
-✅ 607. Sales Person  
+✅ [607. Sales Person](https://leetcode.com/problems/sales-person/description/)<br>
 ✅ 610. Triangle Judgement  
 ✅ 619. Biggest Single Number  
 ✅ 620. Not Boring Movies  
