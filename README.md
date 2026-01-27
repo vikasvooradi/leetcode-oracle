@@ -41,7 +41,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)<br>
 ✅ [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/description/)<br>
 ✅ [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/)<br>
-✅ [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/)<br>
+✅ [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) ⭐<br>
 ✅ 1141. User Activity for the Past 30 Days I  
 ✅ 1148. Article Views I  
 ✅ 1179. Reformat Department Table  
