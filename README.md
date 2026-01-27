@@ -43,7 +43,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/description/)<br>
 ✅ [1084. Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/description/) ⭐<br>
 ✅ [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/) ⭐<br>
-✅ 1148. Article Views I  
+✅ [1148. Article Views I](https://leetcode.com/problems/article-views-i/description/) ⭐<br>
 ✅ 1179. Reformat Department Table  
 ✅ 1211. Queries Quality and Percentage  
 ✅ 1251. Average Selling Price  
