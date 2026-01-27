@@ -38,7 +38,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number/)<br>
 ✅ [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/)<br>
 ✅ [627. Swap Sex of Employees](https://leetcode.com/problems/swap-sex-of-employees/description/)<br>
-✅ 1050. Actors and Directors Who Cooperated At Least Three Times  
+✅ [1050. Actors and Directors Who Cooperated At Least Three Times](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times/description/)<br>
 ✅ 1068. Product Sales Analysis I  
 ✅ 1075. Project Employees I  
 ✅ 1084. Sales Analysis III  
