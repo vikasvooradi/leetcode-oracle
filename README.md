@@ -149,15 +149,3 @@ This repository contains my solutions as I progress from **basic → intermediat
 > This is purely for **learning and practice** purposes.  
 > All credit for the problems goes to **LeetCode**.
 
-
-
-
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1327-list-the-products-ordered-in-a-period](https://github.com/vikasvooradi/leetcode-oracle/tree/master/1327-list-the-products-ordered-in-a-period) |
-| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/vikasvooradi/leetcode-oracle/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
-<!---LeetCode Topics End-->
