@@ -50,7 +50,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) ⭐<br>
 ✅ [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/) <br>
 ✅ [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1900073123/) <br>
-✅ 1407. Top Travellers  
+✅ [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/) <br>
 ✅ 1484. Group Sold Products By The Date  
 ✅ 1517. Find Users With Valid E-Mails  
 ✅ 1527. Patients With a Condition  
