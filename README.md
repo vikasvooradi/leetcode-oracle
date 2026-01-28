@@ -152,3 +152,11 @@ This repository contains my solutions as I progress from **basic → intermediat
 
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/vikasvooradi/leetcode-oracle/tree/master/1327-list-the-products-ordered-in-a-period) |
+<!---LeetCode Topics End-->
