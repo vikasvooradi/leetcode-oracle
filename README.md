@@ -48,7 +48,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/) ⭐<br>
 ✅ [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/) ⭐<br>
 ✅ [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) ⭐<br>
-✅ 1327. List the Products Ordered in a Period  
+✅ [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/description/) <br>
 ✅ 1378. Replace Employee ID With The Unique Identifier  
 ✅ 1407. Top Travellers  
 ✅ 1484. Group Sold Products By The Date  
