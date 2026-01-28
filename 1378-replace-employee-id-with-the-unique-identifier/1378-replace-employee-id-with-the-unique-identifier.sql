@@ -10,5 +10,5 @@
 
 */
 
-select unique_id,name from Employees e, EmployeeUNI u where e.id = u.id (+)
+select unique_id,name from Employees e, EmployeeUNI u where e.id = u.id (+);
 
