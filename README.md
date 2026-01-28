@@ -47,7 +47,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1179. Reformat Department Table](https://leetcode.com/problems/reformat-department-table/description/) ⭐<br>
 ✅ [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/description/) ⭐<br>
 ✅ [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/description/) ⭐<br>
-✅ 1280. Students and Examinations  
+✅ [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/description/) ⭐<br>
 ✅ 1327. List the Products Ordered in a Period  
 ✅ 1378. Replace Employee ID With The Unique Identifier  
 ✅ 1407. Top Travellers  
