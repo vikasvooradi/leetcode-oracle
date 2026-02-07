@@ -54,7 +54,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/) ⭐<br> 
 ✅ [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/) ⭐<br>
 ✅ [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/description/) ⭐<br>
-✅ 1581. Customer Who Visited but Did Not Make Any Transactions  
+✅ [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) <br>  
 ✅ 1587. Bank Account Summary II  
 ✅ 1633. Percentage of Users Attended a Contest  
 ✅ 1661. Average Time of Process per Machine  
