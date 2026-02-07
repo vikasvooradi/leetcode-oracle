@@ -52,7 +52,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/1900073123/) <br>
 ✅ [1407. Top Travellers](https://leetcode.com/problems/top-travellers/description/) <br>
 ✅ [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/description/) <br> 
-✅ 1517. Find Users With Valid E-Mails  
+✅ [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/description/) <br> 
 ✅ 1527. Patients With a Condition  
 ✅ 1581. Customer Who Visited but Did Not Make Any Transactions  
 ✅ 1587. Bank Account Summary II  
