@@ -57,7 +57,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/description/) <br>
 ✅ [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/) <br>
 ✅ [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) ⭐<br>
-✅ 1661. Average Time of Process per Machine  
+✅ [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ⭐<br>
 ✅ 1667. Fix Names in a Table  
 ✅ 1683. Invalid Tweets  
 ✅ 1693. Daily Leads and Partners  
