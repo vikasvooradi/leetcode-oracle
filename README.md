@@ -60,7 +60,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ⭐<br>
 ✅ [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/) <br> 
 ✅ [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) <br>
-✅ 1693. Daily Leads and Partners  
+✅ [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/) <br> 
 ✅ 1729. Find Followers Count  
 ✅ 1731. The Number of Employees Which Report to Each Employee  
 ✅ 1741. Find Total Time Spent by Each Employee  
