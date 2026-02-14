@@ -61,7 +61,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/) <br> 
 ✅ [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/description/) <br>
 ✅ [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/description/) <br> 
-✅ [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) <br>  
+✅ [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count/) <br>
 ✅ 1731. The Number of Employees Which Report to Each Employee  
 ✅ 1741. Find Total Time Spent by Each Employee  
 ✅ 1757. Recyclable and Low Fat Products  
