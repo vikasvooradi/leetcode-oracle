@@ -58,7 +58,7 @@ This repository contains my solutions as I progress from **basic → intermediat
 ✅ [1587. Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii/description/) <br>
 ✅ [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/description/) ⭐<br>
 ✅ [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ⭐<br>
-✅ 1667. Fix Names in a Table  
+✅ [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/description/) <br> 
 ✅ 1683. Invalid Tweets  
 ✅ 1693. Daily Leads and Partners  
 ✅ 1729. Find Followers Count  
